@@ -15,7 +15,7 @@ Here are some screenshots showcasing the app features:
 
 | Home Page | Course Detail | Enrolled Courses |
 |-----------|---------------|------------------|
-| ![1](fyp/ScreenShots/1.png) | ![2](fyp/ScreenShots/2.png) | ![3](fyp/ScreenShots/3.png) |
+| ![1](fyp/ScreenShots/1.PNG) | ![2](fyp/ScreenShots/2.png) | ![3](fyp/ScreenShots/3.png) |
 
 ### 🔹 Course Marketplace & Search
 
