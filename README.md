@@ -21,7 +21,7 @@ Here are some screenshots showcasing the app features:
 
 | Browse Courses | Search | Filter |
 |----------------|--------|--------|
-| ![4](fyp/ScreenShots/4.png) | ![5](fyp/ScreenShots/5.png) | ![6](fyp/ScreenShots/6.png) |
+| ![4](ScreenShots/4.png) | ![5](fyp/ScreenShots/5.png) | ![6](fyp/ScreenShots/6.png) |
 
 ### 🔹 Tutor Dashboard & Management
 
