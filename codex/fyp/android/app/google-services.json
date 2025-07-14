@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147698689619",
+    "project_id": "studybuddy-6ed40",
+    "storage_bucket": "studybuddy-6ed40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147698689619:android:2cd47052e7d91c5f3888a6",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_UOyJrCX_Z0XhcH_SHisP6QSaQxK9wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
