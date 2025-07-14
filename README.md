@@ -11,25 +11,25 @@ This app is built using **Flutter**, integrated with **Firebase**, and includes 
 
 Here are some screenshots showcasing the app features:
 
-### 🔹 Student Dashboard
+ 
 
 | Splash Screen | student/Teacher home page |         Login |
 |---------------|---------------------------|---------------|
 | ![1](ScreenShots/1.PNG) | ![2](ScreenShots/2.PNG) | ![3](ScreenShots/3.PNG) |
 
-### 🔹 Course Marketplace & Search
+ 
 
 | Signup         | forgot password | Add Course |
 |----------------|-----------------|------------|
 | ![4](ScreenShots/4.PNG) | ![5](ScreenShots/5.PNG) | ![6](ScreenShots/6.PNG) |
 
-### 🔹 Tutor Dashboard & Management
+ 
 
 | Course Description | Teacher dashboard | profile |
 |--------------------|-------------------|---------|
 | ![7](ScreenShots/7.PNG) | ![8](ScreenShots/8.PNG) | ![9](ScreenShots/9.PNG) |
 
-### 🔹 Payment Integration
+ 
 
 | Stripe Checkout |
 |-----------------|
