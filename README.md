@@ -15,25 +15,25 @@ Here are some screenshots showcasing the app features:
 
 | Home Page | Course Detail | Enrolled Courses |
 |-----------|---------------|------------------|
-| ![1](fyp/ScreenShots/1.PNG) | ![2](fyp/ScreenShots/2.png) | ![3](fyp/ScreenShots/3.png) |
+| ![1](ScreenShots/1.PNG) | ![2](ScreenShots/2.png) | ![3](ScreenShots/3.png) |
 
 ### 🔹 Course Marketplace & Search
 
 | Browse Courses | Search | Filter |
 |----------------|--------|--------|
-| ![4](ScreenShots/4.png) | ![5](fyp/ScreenShots/5.png) | ![6](fyp/ScreenShots/6.png) |
+| ![4](ScreenShots/4.png) | ![5](ScreenShots/5.png) | ![6](ScreenShots/6.png) |
 
 ### 🔹 Tutor Dashboard & Management
 
 | Tutor Home | Add Course | Earnings |
 |------------|------------|----------|
-| ![7](fyp/ScreenShots/7.png) | ![8](fyp/ScreenShots/8.png) | ![9](fyp/ScreenShots/9.png) |
+| ![7](ScreenShots/7.png) | ![8](ScreenShots/8.png) | ![9](ScreenShots/9.png) |
 
 ### 🔹 Payment Integration
 
 | Stripe Checkout |
 |-----------------|
-| ![10](fyp/ScreenShots/10.png) |
+| ![10](ScreenShots/10.png) |
 
 ---
 
